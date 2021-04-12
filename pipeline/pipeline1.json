@@ -67,10 +67,12 @@
 		],
 		"parameters": {
 			"fileName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "cars.csv"
 			},
 			"tableName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "cars"
 			}
 		},
 		"annotations": []
