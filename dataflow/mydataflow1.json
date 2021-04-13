@@ -1,0 +1,12 @@
+{
+	"name": "mydataflow1",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [],
+			"sinks": [],
+			"transformations": [],
+			"script": "parameters{\n\tparameter1 as string\n}"
+		}
+	}
+}
